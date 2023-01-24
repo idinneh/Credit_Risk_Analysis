@@ -106,6 +106,6 @@ This sections include the the balanced accuracy score, confusion matrix and imba
 ## Summary
 All the models used to perform the credit risk analysis show weak precision in determining if a credit risk is high.
 The Clustercentroids has the lowest balanced accuracy score and the lowest sensitivity score of 60%. This makes undersampling model unfit for predicting credit risk. The other algorithms fall within the same range of 60's in sensitivity of the high risk credits except for SMOTEEN (combined oversampling and undersampling) and EasyEnsemble model.
-The Ensemble models has the most improvment with the highest balanced accuracy score,and  most especially in the sensitivity of the high risk credits.
-The EasyEnsembleClassifier model shows a recall of 91% so it detects almost all high risk credit. On another hand, with a low precision, a lot of low risk credits are still falsely detected as high risk which can potentially affect the bank's credit strategy.
-For these reasons, I would not recommend the bank to use any of these models to predict credit risk.
+The Ensemble models has the most improvement with the highest balanced accuracy score and sensitivity of the high risk credits.
+The EasyEnsembleClassifier model shows a recall of 91% so it detects almost all high risk credit. Although, with a low precision, a lot of low risk credits are still falsely detected as high risk which can potentially affect the bank's credit strategy.
+For these reasons, I would not recommend any of these models to predict credit risk.
