@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview of Project
-The purpose of this peoject is to predict credit risk and this was done by using machine learning. Different techniques were used to train and assess models, to identify which makes the most accurate prediction of credit risk. This was done using Python, Jupyter Notebook, Pandas and mlev environment. The various models/algorithms used in this analysis are as follows:
+The purpose of this project is to predict credit risk and this was done by using machine learning. Different techniques were used to train and assess models, to identify which makes the most accurate prediction of credit risk. This was done using Python, Jupyter Notebook, Pandas and mlev environment. The various models/algorithms used in this analysis are as follows:
 
 - Naive Random Oversampler (Oversampling)
 - SMOTE algorithms (Oversampling)
